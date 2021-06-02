@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "nocodb": "^0.9.17"
+    "nocodb": "^0.9.22"
   }
 }
